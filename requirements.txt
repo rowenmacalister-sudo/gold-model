@@ -3,7 +3,7 @@ yfinance
 pandas
 numpy
 scikit-learn
-tensorflow
+tensorflow-cpu
 joblib
 h5py
 plotly
